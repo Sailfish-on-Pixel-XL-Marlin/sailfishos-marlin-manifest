@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/google/marlin"
+name="LineageOS/android_device_google_marlin"
+revision="lineage-18.1" />
+<project path="kernel/google/marlin"
+name="Sailfish-on-Pixel-XL-Marlin/android_kernel_google_marlin"
+revision="hybris-18.1" />
+<project path="hybris/hybris-boot"
+name="Sailfish-on-Pixel-XL-Marlin/hybris-boot"
+revision="master" />
+<project path="rpm"
+name="Sailfish-on-Pixel-XL-Marlin/droid-hal-marlin"
+revision="master" />
+<project path="rpm/dhd"
+name="Sailfish-on-Pixel-XL-Marlin/droid-hal-device"
+revision="master" />
+<project path="hybris/droid-configs"
+name="Sailfish-on-Pixel-XL-Marlin/droid-config-marlin"
+revision="master" />
+<project path="hybris/droid-hal-version-marlin"
+name="Sailfish-on-Pixel-XL-Marlin/droid-hal-version-marlin"
+revision="master" />
+<project path="hybris/droid-hal-version-marlin"
+name="Sailfish-on-Pixel-XL-Marlin/droid-hal-version-marlin"
+revision="master" />
+</manifest>
