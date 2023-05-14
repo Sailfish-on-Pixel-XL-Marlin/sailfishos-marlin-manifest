@@ -21,7 +21,4 @@ revision="master" />
 <project path="hybris/droid-hal-version-marlin"
 name="Sailfish-on-Pixel-XL-Marlin/droid-hal-version-marlin"
 revision="master" />
-<project path="hybris/droid-hal-version-marlin"
-name="Sailfish-on-Pixel-XL-Marlin/droid-hal-version-marlin"
-revision="master" />
 </manifest>
