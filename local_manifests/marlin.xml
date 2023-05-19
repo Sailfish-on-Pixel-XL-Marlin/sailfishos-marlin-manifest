@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <project path="device/google/marlin"
-name="LineageOS/android_device_google_marlin"
-revision="lineage-18.1" />
+name="Sailfish-on-Pixel-XL-Marlin/android_device_google_marlin"
+revision="hybris-18.1" />
 <project path="kernel/google/marlin"
 name="Sailfish-on-Pixel-XL-Marlin/android_kernel_google_marlin"
 revision="hybris-18.1" />
